@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <logindetails>
+  <username>
+    TA
+  </username>
+  <password>
+    BEF419374E905D85759E85ACE8F00983819C6B1C
+  </password>
+</logindetails>
+<logindetails>
+  <username>
+sample
+  </username>
+  <password>
+    C361537FBAF570BA04AE41A46AEFAAA73DD4309B
+  </password>
+</logindetails>
+  <logindetails>
+    <username>
+      test
+    </username>
+    <password>
+      A94A8FE5CCB19BA61C4C0873D391E987982FBBD3
+    </password>
+  </logindetails>
+</users>

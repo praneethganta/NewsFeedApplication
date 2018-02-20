@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <logindetails>
+    <username>hello</username>
+    <password>hello</password>
+  </logindetails>
+  <logindetails>
+    <username>hello</username>
+    <password>jumbo</password>
+  </logindetails>
+  <logindetails>
+    <username>ragini3455</username>
+    <password>435345</password>
+  </logindetails>
+  <logindetails>
+    <username>ragini3455</username>
+    <password>4353dpsod</password>
+  </logindetails>
+  <logindetails>
+    <username>hello</username>
+    <password>hello123</password>
+  </logindetails>
+  <logindetails>
+    <username>hello</username>
+    <password>hello1233</password>
+  </logindetails>
+</users>
